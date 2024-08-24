@@ -6,6 +6,9 @@ You will have assignments to complete each week, and you will be required to sha
 
 Your final project is due the Sunday before your final project will be showcased (Wednesday, October 23rd), so that the instructors have time to look over it and offer any suggestions before you show it off to your fellow bootcampers.
 
+### Access your codespaces
+https://github.com/codespaces
+
 ### For help using VSCode for Web
 https://code.visualstudio.com/docs/editor/vscode-web
 
