@@ -19,3 +19,5 @@ with open("test.txt", "a") as txt_file:
         txt_file.write("#" * i + "\n")
     for i in range(11,1,-1):
         txt_file.write("#" * i + "\n")
+
+print("Thank you for looking at my code.")
