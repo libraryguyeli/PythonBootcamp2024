@@ -2,7 +2,7 @@
 
 Hello, and welcome to our first ever Python Bootcamp! We are thrilled to have you with us as we work through the foundations of Python together.
 
-You will have assignments to complete each week, and you will be required to share those with the instructors through an emailed link to your GitHub due the Tuesday night before our Wednesday night session.
+You will have assignments to complete each week, and you will be required to complete those and commit it to your dedicated GitHub repository due each Tuesday night.
 
 Your final project is due the Sunday before your final project will be showcased (Wednesday, October 23rd), so that the instructors have time to look over it and offer any suggestions before you show it off to your fellow bootcampers.
 
