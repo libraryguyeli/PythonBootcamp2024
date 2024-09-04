@@ -2,3 +2,4 @@
 2. Create a tip calculator program using functions and user input. Use a return statement in your function.
 
 Make sure your assignments are done by Tuesday at 11:59pm the day before our next session. We will review your code the next morning before the session that evening.
+HAPPY CODING!
