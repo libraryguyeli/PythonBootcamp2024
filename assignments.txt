@@ -3,6 +3,16 @@ ASSIGNMENT 1 - Wednesday, September 4th
     Use f-strings, not concatenation.
 2. Create a tip calculator program using functions and user input. Use a return statement in your function.
 
+
+ASSIGNMENT 2 - Wednesday, September 11th
+1. Create an empty list called “friends”. Create a function that adds a friend to the friends list and
+    a function that removes a friend from the friends list. Both of the functions should take one parameter
+    which is the name of the person that will be added or removed.
+2. Use the functions you created in step 1 to add 5 people to your friends list using your function.
+    Then remove two friends from your list using your remove function. If the friend is not in the list,
+    print a message that says the friend is not in the list and can’t be removed. Finally, print out your final 
+    friend list.
+
 Make sure your assignments are done by Tuesday at 11:59pm the day before our next session.
     We will review your code the next morning before the session that evening.
 
