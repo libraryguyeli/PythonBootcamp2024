@@ -6,7 +6,10 @@ You will have assignments to complete each week, and you will be required to com
 
 Your final project is due the Sunday before your final project will be showcased (Wednesday, October 23rd), so that the instructors have time to look over it and offer any suggestions before you show it off to your fellow bootcampers.
 
-## Official Python Documentation
+### Extra help on-demand (GCPL YouTube page)
+https://www.youtube.com/watch?v=MN4gD6RKHe8
+
+### Official Python Documentation
 https://docs.python.org
 
 ### Access your codespaces
