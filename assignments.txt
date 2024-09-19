@@ -13,6 +13,15 @@ ASSIGNMENT 2 - Wednesday, September 11th
     print a message that says the friend is not in the list and can’t be removed. Finally, print out your final 
     friend list.
 
+
+ASSIGNMENT 3 - Wednesday, September 18th
+1. Create a program that removes all the vowels from user input and produces the outcome back to the user.
+2. Create a password validator program that only accepts a password that fits a set of requirements.
+    These requirements are up to you. Make sure the user knows the requirements before they try a password.
+    Do not allow the program to end until the password meets all your requirements.
+    Try to use a dictionary to solve this, if you can manage it.
+
+
 Make sure your assignments are done by Tuesday at 11:59pm the day before our next session.
     We will review your code the next morning before the session that evening.
 
