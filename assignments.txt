@@ -22,7 +22,8 @@ ASSIGNMENT 3 - Wednesday, September 18th
     Try to use a dictionary to solve this, if you can manage it.
 
 
+
 Make sure your assignments are done by Tuesday at 11:59pm the day before our next session.
     We will review your code the next morning before the session that evening.
 
-HAPPY CODING!
+HAPPY CODING!!
