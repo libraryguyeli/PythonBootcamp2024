@@ -22,7 +22,7 @@ ASSIGNMENT 3 - Wednesday, September 18th
     Try to use a dictionary to solve this, if you can manage it.
 
 
-ASSIGNMENT 4 - Wednesday, September 25th
+ASSIGNMENT 4 - Wednesday, September 25th (session cancelled due to weather)
 1. Use a dictionary to store information about a fictional person. Store their first name, last name, age, 
     and the city in which they live. You should have keys such as first_name, last_name, age, and city. 
     Print each piece of information stored in your dictionary.
