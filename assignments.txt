@@ -22,6 +22,14 @@ ASSIGNMENT 3 - Wednesday, September 18th
     Try to use a dictionary to solve this, if you can manage it.
 
 
+ASSIGNMENT 4 - Wednesday, September 25th
+1. Use a dictionary to store information about a fictional person. Store their first name, last name, age, 
+    and the city in which they live. You should have keys such as first_name, last_name, age, and city. 
+    Print each piece of information stored in your dictionary.
+2. Make two new dictionaries representing different people, and store all three dictionaries in a list 
+    called people. Loop through your list of people. As you loop through the list, print everything you 
+    know about each person.
+
 
 Make sure your assignments are done by Tuesday at 11:59pm the day before our next session.
     We will review your code the next morning before the session that evening.
