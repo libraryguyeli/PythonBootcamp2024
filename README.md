@@ -9,6 +9,12 @@ Your final project is due the Sunday before your final project will be showcased
 ### Extra help on-demand (GCPL YouTube page)
 https://www.youtube.com/watch?v=MN4gD6RKHe8
 
+### Python for Everybody book (free online)
+https://www.py4e.com/
+
+### Free datasets to work with
+https://www.kaggle.com/
+
 ### Official Python Documentation
 https://docs.python.org
 
