@@ -25,4 +25,5 @@ with open("domains.csv", "w", newline = "") as csvfile:
     for d, c in domains.items():
         writer.writerow({"Domain": d, "Count": c})
 
+mailbox_file.close()
 print("Finished")
